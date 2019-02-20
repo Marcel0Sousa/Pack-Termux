@@ -35,6 +35,15 @@ Oh my ZSH é um framework open-source dirigido pela comunidade para gerenciar a 
 - [Documentação](https://github.com/robbyrussell/oh-my-zsh)
 
 # Screenshot
+
+<p aling="centre">
+<img src="http://i.imgur.com/4Mufb0U.png" alt="Script">
+</p>
+
+<p aling="centre">
+<img src="http://i.imgur.com/1V1tisg.png" alt="Script">
+</p>
+
 <p aling="centre">
 <img src="http://i.imgur.com/oZdyQXT.png" alt="Script">
 </p>
