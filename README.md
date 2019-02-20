@@ -17,6 +17,7 @@
 * tcpdump
 * figlet
 - [Documentação do Termux](https://wiki.termux.com/wiki/FAQ)
+- [Screenshot](#Screenshot)
 
 # Youtube-dl
 
@@ -32,3 +33,8 @@ O Termux é um emulador de terminal e ambiente Linux para Android.
 
 Oh my ZSH é um framework open-source dirigido pela comunidade para gerenciar a configuração do ZSH (Terminal feito para uso interativo) e melhorar o workflow de desenvolvimento. Ele inclui mais de 200 plugins opcionais (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), e mais de 140 temas.
 - [Documentação](https://github.com/robbyrussell/oh-my-zsh)
+
+# Screenshot
+<p aling="centre">
+<img src="http://i.imgur.com/oZdyQXT.png" alt="Script">
+</p>
