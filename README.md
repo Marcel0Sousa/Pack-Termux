@@ -1,4 +1,3 @@
-# Pack-Termux
 
 # Script que realiz a instalação de alguns pacotes no Termux tais como:
 * nmap
@@ -16,6 +15,7 @@
 * tsu
 * zsh
 * tcpdump
+- [Documentação do Termux](https://wiki.termux.com/wiki/FAQ)
 
 # Youtube-dl
 
