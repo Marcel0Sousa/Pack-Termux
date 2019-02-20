@@ -16,3 +16,8 @@
 * tsu
 * zsh
 * tcpdump
+
+# Youtube-dl
+
+youtube-dl - faça o download de vídeos do youtube.com ou de outras plataformas de vídeo
+[Documentação](https://github.com/rg3/youtube-dl.git)
