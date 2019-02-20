@@ -1,6 +1,6 @@
 # Pack-Termux
 
-Script que realiz a instalação de alguns pacotes no Termux tais como:
+- Script que realiz a instalação de alguns pacotes no Termux tais como:
 * nmap
 * nano
 * python
