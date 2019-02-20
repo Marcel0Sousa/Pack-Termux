@@ -20,7 +20,7 @@
 
 # Youtube-dl
 
-youtube-dl - faça o download de vídeos do youtube.com ou de outras plataformas de vídeo
+youtube-dl - Realiza o download de vídeos do [Youtube](https://youtube.com) ou de outras plataformas de vídeo
 - [Documentação](https://github.com/rg3/youtube-dl.git)
 
 # sudo
