@@ -26,7 +26,7 @@ youtube-dl - Realiza o download de vídeos do [Youtube](https://youtube.com) ou 
 # sudo
 É um script bash que fornece permissão de super usuario(root) portado para o Termux.
 O Termux é um emulador de terminal e ambiente Linux para Android.
-[Documentação](https://gitlab.com/st42/termux-sudo)
+- [Documentação](https://gitlab.com/st42/termux-sudo)
 
 # Oh My ZSH
 
