@@ -36,14 +36,19 @@ Oh my ZSH é um framework open-source dirigido pela comunidade para gerenciar a 
 
 # Screenshot
 
-<p aling="centre">
+<p align="centre">
 <img src="http://i.imgur.com/4Mufb0U.png" alt="Script">
 </p>
 
-<p aling="centre">
+<p align="centre">
 <img src="http://i.imgur.com/1V1tisg.png" alt="Script">
 </p>
 
-<p aling="centre">
+<p align="centre">
 <img src="http://i.imgur.com/oZdyQXT.png" alt="Script">
 </p>
+
+<p align="centre">
+<img src="http://i.imgur.com/78Mf4aw.png" alt="Script">
+</p>
+
