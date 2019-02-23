@@ -63,7 +63,7 @@ echo "Pacote não instalado :-("
 esac
 echo
 # -------------------------------------------------------------#
-echo "**** Sudo (acesso root) ****"
+echo "**** Sudo ****"
 echo "Pacote para conceder permisão de super usuario"
 echo
 echo "Seu dispositivo possui acesso root? [Y/n]: "
@@ -133,5 +133,5 @@ esac
 clear
 figlet FINISH XD
 echo
-echo "Reinicie o Termux para aplicar as configuraçẽs: [exit]"
+echo "Reinicie o Termux para aplicar as configurações: [exit]"
 
