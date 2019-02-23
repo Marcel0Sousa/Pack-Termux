@@ -42,7 +42,8 @@ termux-setup-storage
 echo
 # -------------------------------------------------------------#
 echo "**** Youtube-dl ****"
-echo "(Pacote para realizar \nDownloads de Video e\nAudio do Youtube ****)"
+echo "(Pacote para realizar Downloads de Video e Audio do Youtube)"
+echo
 echo "Deseja instalar? [Y/n]: "
 read opcao
 case $opcao in
@@ -63,7 +64,8 @@ esac
 echo
 # -------------------------------------------------------------#
 echo "**** Pacote sudo ****"
-echo "Pacote para conceder \npermisão de super usuario"
+echo "Pacote para conceder permisão de super usuario"
+echo
 echo "Seu dispositivo possui acesso root? [Y/n]: "
 read sudo
 case $sudo in
@@ -118,7 +120,6 @@ echo
 git clone git://github.com/robbyrussell/oh-my-zsh.git $HOME/.oh-my-zsh --depth 1
 cp $HOME/.oh-my-zsh/templates/zshrc.zsh-template $HOME/.zshrc
 chsh -s zsh
-
 # echo figlet KALI LINUX >> /data/data/com.termux/files/usr/etc/zshrc
 echo
 ;;
@@ -129,5 +130,5 @@ esac
 clear
 figlet FINISH XD
 echo
-echo "Reinicie o Termux para aplicar as configuraçẽs"
-exit
+echo "Reinicie o Termux para aplicar as configuraçẽs\n com o comando [exit]"
+
