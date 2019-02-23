@@ -43,7 +43,7 @@ echo
 # -------------------------------------------------------------#
 echo "**** Youtube-dl ****"
 echo "(Pacote para realizar \nDownloads de Video e\nAudio do Youtube ****)"
-echo "Deseja instalar? [y / n]: "
+echo "Deseja instalar? [Y/n]: "
 read opcao
 case $opcao in
 
@@ -64,7 +64,7 @@ echo
 # -------------------------------------------------------------#
 echo "**** Pacote sudo ****"
 echo "Pacote para conceder \npermisão de super usuario"
-echo "Seu dispositivo possui acesso root? [y / n]: "
+echo "Seu dispositivo possui acesso root? [Y/n]: "
 read sudo
 case $sudo in
 
@@ -103,7 +103,7 @@ echo
 apt update
 echo "Pacote Oh My Zsh"
 echo "Framework open-source para o Termux"
-echo "Deseja instalar? [y / n]: "
+echo "Deseja instalar? [Y/n]: "
 
 read terminal
 case $terminal in
