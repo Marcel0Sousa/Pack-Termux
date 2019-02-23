@@ -63,7 +63,7 @@ echo "Pacote não instalado :-("
 esac
 echo
 # -------------------------------------------------------------#
-echo "**** Pacote sudo ****"
+echo "**** Sudo (acesso root) ****"
 echo "Pacote para conceder permisão de super usuario"
 echo
 echo "Seu dispositivo possui acesso root? [Y/n]: "
@@ -103,8 +103,10 @@ echo
 echo
 # Atualizando o Termux
 apt update
+echo
 echo "Pacote Oh My Zsh"
 echo "Framework open-source para o Termux"
+echo
 echo "Deseja instalar? [Y/n]: "
 
 read terminal
@@ -125,10 +127,11 @@ echo
 ;;
 n)
 echo "Pacote não instalado :-("
+echo
 ;;
 esac
 clear
 figlet FINISH XD
 echo
-echo "Reinicie o Termux para aplicar as configuraçẽs\n com o comando [exit]"
+echo "Reinicie o Termux para aplicar as configuraçẽs: [exit]"
 
