@@ -64,7 +64,7 @@ esac
 echo
 # -------------------------------------------------------------#
 echo "**** Sudo ****"
-echo "Pacote para conceder permisão de super usuario"
+echo "Pacote para conceder permissão de super usuário"
 echo
 echo "Seu dispositivo possui acesso root? [Y/n]: "
 read sudo
