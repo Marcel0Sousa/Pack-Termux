@@ -40,6 +40,7 @@ apt install tcpdump -y
 echo
 termux-setup-storage
 echo
+clear
 # -------------------------------------------------------------#
 echo "**** Youtube-dl ****"
 echo "(Pacote para realizar Downloads de Video e Audio do Youtube)"
