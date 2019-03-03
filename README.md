@@ -1,8 +1,7 @@
 
-# Script que realiz a instalação de alguns pacotes no Termux tais como:
+# Script que realiza instalação de alguns pacotes no Termux tais como:
 * nmap
 * nano
-* mysql
 * mariaDB
 * ython
 * python2
