@@ -1,8 +1,8 @@
 #!/bin/bash
-# Atualizando o repositorio do Termux
+
 apt update && apt upgrade -y
 #-------------------------------------------------------------#
-# Print texto ascii
+
 k='\033[01;32m'
 echo
 echo "${k}████████╗ ██████╗██╗  ██╗███████╗██╗      ██████╗ ";
@@ -13,7 +13,7 @@ echo "${k}   ██║   ╚██████╗██║  ██║███�
 echo "${k}   ╚═╝    ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ";
 echo "${k} /_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/";
 # -------------------------------------------------------------#
-# Instalando figlet (Print texto)
+
 echo
 apt install figlet -y
 figlet TERMUX
@@ -90,7 +90,7 @@ echo "Pacote não instalado :-("
 esac
 # -------------------------------------------------------------#
 echo
-# echo figlet KALI LINUX >> /data/data/com.termux/files/usr/etc/bash.bashrc
+
 :<<'Teste'
 echo
 wget https://raw.githubusercontent.com/tchelospy/PHONE-TOOLS/master/motd
@@ -101,9 +101,7 @@ rm modt motd.sh
 Teste
 # -------------------------------------------------------------#
 echo
-#!/bin/bash
-echo
-# Atualizando o Termux
+
 apt update
 clear
 echo
@@ -125,7 +123,7 @@ echo
 git clone git://github.com/robbyrussell/oh-my-zsh.git $HOME/.oh-my-zsh --depth 1
 cp $HOME/.oh-my-zsh/templates/zshrc.zsh-template $HOME/.zshrc
 chsh -s zsh
-# echo figlet KALI LINUX >> /data/data/com.termux/files/usr/etc/zshrc
+
 echo
 ;;
 n)
