@@ -63,6 +63,7 @@ echo "Pacote não instalado :-("
 ;;
 esac
 echo
+clear
 # -------------------------------------------------------------#
 echo "**** Sudo ****"
 echo "Pacote para conceder permissão de super usuário"
@@ -104,6 +105,7 @@ echo
 echo
 # Atualizando o Termux
 apt update
+clear
 echo
 echo "Pacote Oh My Zsh"
 echo "Framework open-source para o Termux"
