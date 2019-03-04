@@ -35,6 +35,7 @@ apt install php-apache -y
 apt install tsu -y
 apt install zsh -y
 apt install tcpdump -y
+apt install mariadb
 # -------------------------------------------------------------#
 # link de acesso da memoria interna (Storage)
 echo
