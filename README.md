@@ -3,7 +3,7 @@
 * nmap
 * nano
 * mariaDB
-* ython
+* python
 * python2
 * php
 * apache
